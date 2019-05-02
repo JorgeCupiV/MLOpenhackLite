@@ -1,4 +1,4 @@
-#Challenge 6: Run Batch Predictions
+# Challenge 6: Run Batch Predictions
 
 You can use a pipeline to run batch predictions from a file of data observations. This can be useful when you have to process a large number of input observations as a single job that would take too long to accomplish using a real-time service.
 Prerequisites
